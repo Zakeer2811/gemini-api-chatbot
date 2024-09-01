@@ -1,5 +1,5 @@
 import sys
-from configparser import ConfigParser  # Corrected the typo
+from configparser import ConfigParser 
 from Chatbot import ChatBot
 
 def main():
