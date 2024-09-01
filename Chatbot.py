@@ -6,7 +6,7 @@ class GenAIException(Exception):
     pass
 
 class ChatBot:
-    CHATBOT_NAME = "circulumbot_vr20"
+    CHATBOT_NAME = "jakir's bot"
 
     def __init__(self, api_key):
         self.genai = genai
